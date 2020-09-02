@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "name": "arcaicam-esperantom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kroyxlab/arcaicam-esperantom.git",
+  "author": "Kristian Soto <kroyxlab@gmail.com>",
+  "license": "MIT"
+}
